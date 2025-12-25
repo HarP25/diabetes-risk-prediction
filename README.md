@@ -1,4 +1,4 @@
-# diabetes-risk-prediction
+# Diabetes-risk-prediction
 Check the risk of diabetes. Dataset is given in kaggle
 
 # Diabetes Risk Prediction
@@ -28,3 +28,6 @@ This project predicts the probability of diabetes using clinical and lifestyle d
 - Better validation
 - Feature selection
 - Model ensembling
+
+⭐ If you find this useful, star the repo!
+
